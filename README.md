@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Shristi Gupta 👋
 
-<!--
-**Shristi625/Shristi625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student | 💻 Frontend & Flutter Developer  
+🌱 Currently learning and building real-world projects
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am a second-year IT student passionate about frontend development and mobile app development using Flutter. I enjoy creating clean, user-friendly interfaces and continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML, CSS
+- Tailwind CSS
+- Flutter (Beginner–Intermediate)
+- Git & GitHub
+
+## 📂 Projects
+- **Coffee Restaurant Website** – HTML, Tailwind CSS  
+- **Health & Fitness Tracker App (SYP)** – Flutter  
+- **Portfolio Website** – Responsive UI design
+
+## 📫 Contact Me
+- Email: gshristi1214@gmail.com  
+- GitHub: github.com/your-username
+
+✨ *Learning every day, one step at a time.*
